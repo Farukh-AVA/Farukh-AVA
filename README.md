@@ -8,7 +8,7 @@ Passionate about creating innovative tools and exploring new technologies, I foc
 - 👋 I'm Farukh
 - 🖥️  See my portfolio at [Farukh-AVA](https://farukh-ava.github.io/portfolio/)
 - 🔭 I’m currently working on [Scratch](https://github.com/Farukh-AVA/demo-notes-app)
-- 🌱 I’m currently learning AWS Cloudfront
+- 🌱 I’m currently learning AWS Cloudformation
 - 👯 I’m looking to collaborate on cloud-based projects  
 - 💬 Ask me about AWS Serverless or React 
 - 📫 How to reach me: [Farukh.KhassanKhojayev@gmail.com](mailto:Farukh.KhassanKhojayev@gmail.com)
@@ -35,3 +35,4 @@ Passionate about creating innovative tools and exploring new technologies, I foc
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MYSQL" /></a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="GIT" /></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiFarukh-AVAanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
