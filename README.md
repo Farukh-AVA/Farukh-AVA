@@ -35,4 +35,7 @@ Passionate about creating innovative tools and exploring new technologies, I foc
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MYSQL" /></a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="GIT" /></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiFarukh-AVAanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Farukh-AVA&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farukh-AVA&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
