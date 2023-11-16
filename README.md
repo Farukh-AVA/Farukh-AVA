@@ -12,7 +12,6 @@ Passionate about creating innovative tools and exploring new technologies, I foc
 - 👯 I’m looking to collaborate on cloud-based projects  
 - 💬 Ask me about AWS Serverless or React 
 - 📫 How to reach me: [Farukh.KhassanKhojayev@gmail.com](mailto:Farukh.KhassanKhojayev@gmail.com)
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I like to sing when I code. 
 
 ## 🔗 Social Links
