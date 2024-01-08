@@ -6,7 +6,7 @@
 Passionate about creating innovative tools and exploring new technologies, I focus on mastering React and AWS serverless solutions.
 
 - 👋 I'm Farukh
-- 🖥️  See my portfolio at [Farukh-AVA](https://farukh-ava.github.io/portfolio/)
+- 🖥️  See my portfolio at [Farukh-AVA](https://farukhava-portfolio.netlify.app/)
 - 🔭 I’m currently working on [Scratch](https://github.com/Farukh-AVA/demo-notes-app)
 - 🌱 I’m currently learning AWS Cloudformation
 - 👯 I’m looking to collaborate on cloud-based projects  
