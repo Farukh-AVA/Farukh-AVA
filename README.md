@@ -7,7 +7,7 @@ Passionate about creating innovative tools and exploring new technologies, I foc
 
 - 👋 I'm Farukh
 - 🖥️  See my portfolio at [Farukh-AVA](https://farukhava-portfolio.netlify.app/)
-- 🔭 I’m currently working on [Scratch](https://github.com/Farukh-AVA/demo-notes-app)
+- 🔭 I’m currently working on [CloudNote](https://github.com/Farukh-AVA/demo-notes-app)
 - 🌱 I’m currently learning AWS Cloudformation
 - 👯 I’m looking to collaborate on cloud-based projects  
 - 💬 Ask me about AWS Serverless or React 
